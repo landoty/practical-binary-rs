@@ -1,0 +1,10 @@
+[package]
+name = "loader"
+version = "0.1.0"
+authors = ["Landen Doty <landen.doty@outlook.com>"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+object = "0.32.2"
