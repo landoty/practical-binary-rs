@@ -1,5 +1,7 @@
 #![allow(dead_code)]
 
+use std::fmt::Display;
+
 mod section;
 mod symbol;
 
@@ -57,5 +59,11 @@ impl Default for Binary {
             entry: 0, 
             sections: Vec::new(), 
             symbols: Vec::new() }
+    }
+}
+
+impl std::fmt::Display for Binary {
+    fn fmt(&self, f: &mut std::fmt::Formatter) -> std::fmt::Result {
+        write!(f, "{}: {}-bit {}, {}\nentry point: {}", self.filename, self.bits, self.type_str, self.arch_str, self.entry)
     }
 }
