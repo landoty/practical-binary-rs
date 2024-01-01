@@ -3,8 +3,6 @@
 mod section;
 mod symbol;
 
-use object::{Architecture, Object, File};
-
 pub enum BinaryType {
     BinTypeAuto,
     BinTypeNone,
@@ -60,16 +58,4 @@ impl Default for Binary {
             sections: Vec::new(), 
             symbols: Vec::new() }
     }
-}
-
-pub fn unpack_object<'a>(bin:&'a mut Binary, obj: &File) {
-    let arch = match obj.architecture() {
-        Architecture::X86_64 | Architecture::X86_64_X32 => BinaryArch::ArchX86,
-        _ => BinaryArch::ArchNone
-    };
-    
-    bin.type_str = String::from(bin.bin_type.to_str());
-    bin.arch_str = String::from(arch.to_str());
-    bin.arch = arch;
-    bin.entry = obj.entry();
 }
