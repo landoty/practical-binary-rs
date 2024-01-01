@@ -1,0 +1,222 @@
+{"dhatFileVersion":2
+,"mode":"heap","verb":"Allocated"
+,"bklt":true,"bkacc":true
+,"tu":"instrs","Mtu":"Minstr"
+,"tuth":500
+,"cmd":"./target/debug/pba-rs"
+,"pid":24146
+,"te":512116
+,"tg":501867
+,"pps":
+ [{"tb":472,"tbk":1
+  ,"tl":163788
+  ,"mb":472,"mbk":1
+  ,"gb":0,"gbk":0
+  ,"eb":0,"ebk":0
+  ,"rb":2965,"wb":1358
+  ,"acc":[201,-3,148,-4,0,-8,194,-8,88,-8,12,-8,17,-16,12,-8,22,-8,13,-8,10,-16,1,-8,8,-8,3,-4,14,13,-3,5,-8,0,-2,1,-6,0,-8,5,-8,7,-8,0,-16,1,-16,0,-4,9,-20,0,-8,15,-4,6,-4,7,-8,4,-88,1,-136,0,-8,1]
+  ,"fs":[1,2,3,4,5,6,7]
+  }
+ ,{"tb":360,"tbk":2
+  ,"tl":162921
+  ,"mb":240,"mbk":1
+  ,"gb":0,"gbk":0
+  ,"eb":0,"ebk":0
+  ,"rb":6278,"wb":4963
+  ,"fs":[1,8,9,5,6,7]
+  }
+ ,{"tb":1024,"tbk":1
+  ,"tl":162950
+  ,"mb":1024,"mbk":1
+  ,"gb":0,"gbk":0
+  ,"eb":0,"ebk":0
+  ,"rb":9589,"wb":4953
+  ,"acc":[20,-695,15,-161,13,-167,12]
+  ,"fs":[1,10,11,12,13,9,5,6,7]
+  }
+ ,{"tb":32,"tbk":1
+  ,"tl":1114
+  ,"mb":0,"mbk":0
+  ,"gb":0,"gbk":0
+  ,"eb":0,"ebk":0
+  ,"rb":32,"wb":32
+  ,"acc":[-32,2]
+  ,"fs":[14,15,5,6,7]
+  }
+ ,{"tb":152,"tbk":1
+  ,"tl":302
+  ,"mb":0,"mbk":0
+  ,"gb":0,"gbk":0
+  ,"eb":0,"ebk":0
+  ,"rb":24,"wb":16
+  ,"acc":[-8,3,-8,2,-136,0]
+  ,"fs":[16,17,18,19,5,6,7]
+  }
+ ,{"tb":32,"tbk":1
+  ,"tl":206
+  ,"mb":0,"mbk":0
+  ,"gb":0,"gbk":0
+  ,"eb":0,"ebk":0
+  ,"rb":0,"wb":32
+  ,"acc":[-32,1]
+  ,"fs":[14,20,19,5,6,7]
+  }
+ ,{"tb":5,"tbk":1
+  ,"tl":76420
+  ,"mb":0,"mbk":0
+  ,"gb":5,"gbk":1
+  ,"eb":0,"ebk":0
+  ,"rb":0,"wb":6
+  ,"acc":[2,-4,1]
+  ,"fs":[1,21,22,6,7]
+  }
+ ,{"tb":48,"tbk":1
+  ,"tl":76177
+  ,"mb":0,"mbk":0
+  ,"gb":48,"gbk":1
+  ,"eb":0,"ebk":0
+  ,"rb":56,"wb":60
+  ,"acc":[-16,4,-8,3,-8,2,-12,1,-4,0]
+  ,"fs":[1,23,24,6,7]
+  }
+ ,{"tb":32,"tbk":1
+  ,"tl":76077
+  ,"mb":0,"mbk":0
+  ,"gb":32,"gbk":1
+  ,"eb":0,"ebk":0
+  ,"rb":32,"wb":32
+  ,"acc":[-32,2]
+  ,"fs":[16,25,26,27,6,7]
+  }
+ ,{"tb":15960,"tbk":1
+  ,"tl":70030
+  ,"mb":15960,"mbk":1
+  ,"gb":15960,"gbk":1
+  ,"eb":0,"ebk":0
+  ,"rb":697,"wb":15960
+  ,"fs":[1,28,29,30,31,32,33,34,35,36,37,38]
+  }
+ ,{"tb":248,"tbk":1
+  ,"tl":18770
+  ,"mb":248,"mbk":1
+  ,"gb":248,"gbk":1
+  ,"eb":0,"ebk":0
+  ,"rb":0,"wb":0
+  ,"acc":[-248,0]
+  ,"fs":[16,39,40,41,42,43,44,45,46,47,48,33]
+  }
+ ,{"tb":41,"tbk":1
+  ,"tl":7150
+  ,"mb":41,"mbk":1
+  ,"gb":41,"gbk":1
+  ,"eb":0,"ebk":0
+  ,"rb":82,"wb":41
+  ,"acc":[-41,3]
+  ,"fs":[1,49,50,51,52,53,54,55,33,34,35,36]
+  }
+ ,{"tb":136,"tbk":1
+  ,"tl":6897
+  ,"mb":136,"mbk":1
+  ,"gb":136,"gbk":1
+  ,"eb":0,"ebk":0
+  ,"rb":241,"wb":193
+  ,"acc":[-16,3,-8,4,-8,3,-16,5,-8,4,-16,5,-8,4,-48,2,1,-2,2,-5,1]
+  ,"fs":[1,56,57,58,33,34,35,36,37,38,6,7]
+  }
+ ,{"tb":4,"tbk":1
+  ,"tl":4771
+  ,"mb":4,"mbk":1
+  ,"gb":4,"gbk":1
+  ,"eb":0,"ebk":0
+  ,"rb":0,"wb":4
+  ,"acc":[-4,1]
+  ,"fs":[1,49,50,51,52,53,54,59,60,33,34,35]
+  }
+ ,{"tb":3,"tbk":1
+  ,"tl":4321
+  ,"mb":3,"mbk":1
+  ,"gb":3,"gbk":1
+  ,"eb":0,"ebk":0
+  ,"rb":0,"wb":3
+  ,"acc":[-3,1]
+  ,"fs":[1,49,50,51,52,53,54,61,60,33,34,35]
+  }
+ ,{"tb":1024,"tbk":1
+  ,"tl":3315
+  ,"mb":0,"mbk":0
+  ,"gb":0,"gbk":0
+  ,"eb":0,"ebk":0
+  ,"rb":66,"wb":63
+  ,"acc":[-7,2,3,-40,2,3,-8,2,3,-5,2,-961,0]
+  ,"fs":[1,62,63,64,65,34,35,36,37,38,6,7]
+  }
+ ]
+,"ftbl":
+ ["[root]"
+ ,"0x4848899: malloc (in /usr/libexec/valgrind/vgpreload_dhat-amd64-linux.so)"
+ ,"0x48FF6CD: __fopen_internal (iofopen.c:65)"
+ ,"0x48FF6CD: fopen@@GLIBC_2.2.5 (iofopen.c:86)"
+ ,"0x4916032: pthread_getattr_np@@GLIBC_2.32 (pthread_getattr_np.c:85)"
+ ,"0x168781: std::rt::lang_start_internal (thread.rs:719)"
+ ,"0x116C49: std::rt::lang_start (rt.rs:165)"
+ ,"0x116CDD: main (in /home/landen/pba-rs/target/debug/pba-rs)"
+ ,"0x49001A2: getdelim (iogetdelim.c:62)"
+ ,"0x4916143: pthread_getattr_np@@GLIBC_2.32 (pthread_getattr_np.c:122)"
+ ,"0x48FEC23: _IO_file_doallocate (filedoalloc.c:101)"
+ ,"0x490DD5F: _IO_doallocbuf (genops.c:347)"
+ ,"0x490CD5B: _IO_file_underflow@@GLIBC_2.2.5 (fileops.c:485)"
+ ,"0x4900387: getdelim (iogetdelim.c:73)"
+ ,"0x48487A9: malloc (in /usr/libexec/valgrind/vgpreload_dhat-amd64-linux.so)"
+ ,"0x4915F79: pthread_getattr_np@@GLIBC_2.32 (pthread_getattr_np.c:180)"
+ ,"0x484DA83: calloc (in /usr/libexec/valgrind/vgpreload_dhat-amd64-linux.so)"
+ ,"0x49121E2: __pthread_attr_extension (pthread_attr_extension.c:28)"
+ ,"0x491250F: pthread_attr_setaffinity_np@@GLIBC_2.32 (pthread_attr_setaffinity.c:45)"
+ ,"0x4915FDD: pthread_getattr_np@@GLIBC_2.32 (pthread_getattr_np.c:194)"
+ ,"0x491252B: pthread_attr_setaffinity_np@@GLIBC_2.32 (pthread_attr_setaffinity.c:51)"
+ ,"0x185E1A: <&str as alloc::ffi::c_str::CString::new::SpecNewImpl>::spec_new_impl (alloc.rs:95)"
+ ,"0x16882D: std::rt::lang_start_internal (c_str.rs:316)"
+ ,"0x168E81: std::thread::Thread::new (alloc.rs:95)"
+ ,"0x16884B: std::rt::lang_start_internal (rt.rs:104)"
+ ,"0x48C5CB2: __cxa_thread_atexit_impl (cxa_thread_atexit_impl.c:107)"
+ ,"0x16DD8E: std::sys_common::thread_info::set (local.rs:956)"
+ ,"0x168868: std::rt::lang_start_internal (rt.rs:105)"
+ ,"0x159411: alloc::raw_vec::finish_grow (raw_vec.rs:0)"
+ ,"0x114B86: alloc::raw_vec::RawVec<T,A>::reserve::do_reserve_and_handle (raw_vec.rs:400)"
+ ,"0x16954F: std::fs::read::inner (raw_vec.rs:289)"
+ ,"0x125065: std::fs::read (fs.rs:256)"
+ ,"0x116D85: loader::load_binary_object (lib.rs:8)"
+ ,"0x117205: loader::load_binary (lib.rs:28)"
+ ,"0x116CA2: pba_rs::main (main.rs:6)"
+ ,"0x116B9A: core::ops::function::FnOnce::call_once (function.rs:507)"
+ ,"0x116BFD: std::sys_common::backtrace::__rust_begin_short_backtrace (backtrace.rs:121)"
+ ,"0x116C70: std::rt::lang_start::{{closure}} (rt.rs:166)"
+ ,"0x16887B: std::rt::lang_start_internal (function.rs:606)"
+ ,"0x149968: alloc::alloc::Global::alloc_impl (alloc.rs:166)"
+ ,"0x14A49B: <alloc::alloc::Global as core::alloc::Allocator>::allocate_zeroed (alloc.rs:242)"
+ ,"0x14AF4B: alloc::raw_vec::RawVec<T,A>::allocate_in (raw_vec.rs:186)"
+ ,"0x138BD7: <T as alloc::vec::spec_from_elem::SpecFromElem>::from_elem (raw_vec.rs:139)"
+ ,"0x1274EA: alloc::vec::from_elem (mod.rs:2557)"
+ ,"0x145DE7: object::read::elf::relocation::RelocationSections::parse (relocation.rs:31)"
+ ,"0x139B05: object::read::elf::section::SectionTable<Elf,R>::relocation_sections (section.rs:151)"
+ ,"0x12AFBF: object::read::elf::file::ElfFile<Elf,R>::parse (file.rs:66)"
+ ,"0x11759F: object::read::any::File<R>::parse (any.rs:245)"
+ ,"0x116E02: loader::load_binary_object (lib.rs:9)"
+ ,"0x14D7DB: alloc::alloc::Global::alloc_impl (alloc.rs:95)"
+ ,"0x14DAD8: <alloc::alloc::Global as core::alloc::Allocator>::allocate (alloc.rs:237)"
+ ,"0x14DD4B: alloc::raw_vec::RawVec<T,A>::allocate_in (raw_vec.rs:185)"
+ ,"0x14D3C6: <T as alloc::slice::hack::ConvertVec>::to_vec (raw_vec.rs:131)"
+ ,"0x14D338: alloc::slice::<impl alloc::borrow::ToOwned for [T]>::to_owned (slice.rs:106)"
+ ,"0x122533: <alloc::string::String as core::convert::From<&str>>::from (str.rs:209)"
+ ,"0x116E23: loader::load_binary_object (lib.rs:13)"
+ ,"0x1221CB: alloc::alloc::Global::alloc_impl (alloc.rs:95)"
+ ,"0x121F78: alloc::alloc::exchange_malloc (alloc.rs:237)"
+ ,"0x116F6D: loader::load_binary_object (boxed.rs:220)"
+ ,"0x121E0B: loader::binary::unpack_object (mod.rs:75)"
+ ,"0x11714F: loader::load_binary_object (lib.rs:21)"
+ ,"0x121E83: loader::binary::unpack_object (mod.rs:76)"
+ ,"0x115965: std::sys_common::once::futex::Once::call (alloc.rs:95)"
+ ,"0x114D9D: std::sync::once_lock::OnceLock<T>::initialize (once.rs:202)"
+ ,"0x16AC35: std::io::stdio::_print (once_lock.rs:219)"
+ ,"0x1172E1: loader::load_binary (lib.rs:29)"
+ ]
+}
