@@ -62,15 +62,11 @@ impl Default for Binary {
     }
 }
 
-fn arch_from_object(arch: Architecture) -> BinaryArch {
-    match arch {
+pub fn unpack_object<'a>(bin:&'a mut Binary, obj: &File) {
+    let arch = match obj.architecture() {
         Architecture::X86_64 | Architecture::X86_64_X32 => BinaryArch::ArchX86,
         _ => BinaryArch::ArchNone
-    }
-}
-
-pub fn unpack_object<'a>(bin:&'a mut Binary, obj: &File) {
-    let arch = arch_from_object(obj.architecture());
+    };
     
     bin.type_str = String::from(bin.bin_type.to_str());
     bin.arch_str = String::from(arch.to_str());
